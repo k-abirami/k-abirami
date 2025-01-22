@@ -1,9 +1,5 @@
 ## Hi there 👋
-I'm Abirami, a 3rd-year Computer Science student at the University of Waterloo, specializing in Artificial Intelligence. I’ve gained hands-on experience through multiple software internships and am eager to keep learning and growing in the field! I’m interesed in backend and full-stack roles!
-
-#### 🌱 Currently Learning: 
-- Machine Learning - Statistical and Computational Foundations + model robustness
-
+I'm Abirami, a 4th-year Computer Science student at the University of Waterloo, specializing in Artificial Intelligence. I’ve gained hands-on experience through multiple software internships and am eager to keep learning and growing in the field! I’m interesed in backend and full-stack roles!
 #### 💼 Skills
 - **Languages**: Python, C++, C#, SQL, Java, JavaScript, TypeScript, Kotlin
 - **Frameworks/Tools**: Flask, React, NodeJS, .NET, Docker, AWS, Git, Firebase
